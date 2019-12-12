@@ -1,0 +1,20 @@
+<orders>
+   <order>
+      <item>table</item>
+      <price>400</price>
+   </order>
+   <order>
+      <item>chair</item>
+      <price>100</price>
+   </order>
+   
+   <order>
+      <item>plate</item>
+      <price>10</price>
+   </order>
+   
+   <order>
+      <item>spoon</item>
+      <price>1</price>
+   </order>
+</orders>
